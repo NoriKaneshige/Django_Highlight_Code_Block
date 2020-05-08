@@ -1,6 +1,7 @@
 # Django_Highlight_Code_Block
 
-https://narito.ninja/blog/detail/57/
+[referred blog](https://narito.ninja/blog/detail/57/)
+
 
 > ## The first line is added in CSS part.
 > ## The second and third lines are added in Javascript part.
